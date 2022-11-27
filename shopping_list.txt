@@ -3,3 +3,4 @@ potatoes
 jam
 meatballs
 noodles
+peanut butter
